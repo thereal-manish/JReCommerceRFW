@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="FakerLibrary" path="C:/Users/mani3359/AppData/Local/Programs/Python/Python37/Lib/site-packages/FakerLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/mani3359/AppData/Local/Programs/Python/Python37/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="custompyLibrary.addItems" path="JRECommerce/Library/custompyLibrary.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="custompyLibrary.compareItems" path="JRECommerce/Library/custompyLibrary.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="custompyLibrary.compareItemsText" path="JRECommerce/Library/custompyLibrary.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="ExperimentalLibrary.iteratePage" path="JRECommerce/Library/ExperimentalLibrary.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
